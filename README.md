@@ -6,6 +6,12 @@
 
 ---
 
+### 🌐 Check Out My Portfolio!
+
+[![Portfolio](https://img.shields.io/badge/🚀%20My%20Portfolio-Visit%20Now-7C3AED?style=for-the-badge)](https://koasarsaeedss-bot.github.io)
+
+---
+
 ### ✨ Welcome to My GitHub Profile! ✨
 
 ```
@@ -34,6 +40,7 @@
 <div align="center">
 
 ### 📧 **Email**: koasarsaeedss@gmail.com
+### 🌍 **Portfolio**: [koasarsaeedss-bot.github.io](https://koasarsaeedss-bot.github.io)
 
 > 💬 Feel free to reach out! I'd love to connect with you!
 
@@ -94,10 +101,6 @@ C++ ⚙️  |  Dart 🎯  |  Java ☕
 
 <div align="center">
 
-
-
-
-
 ### 🔥 Coding Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=koasarsaeedss-bot&theme=radical" alt="GitHub Streak" />
@@ -147,7 +150,9 @@ C++ ⚙️  |  Dart 🎯  |  Java ☕
 
 ### 💼 Open to Collaborations & New Opportunities!
 
-**Feel free to reach out:** koasarsaeedss@gmail.com
+| 📧 Email | 🌍 Portfolio | 💼 LinkedIn |
+|---|---|---|
+| koasarsaeedss@gmail.com | [koasarsaeedss-bot.github.io](https://koasarsaeedss-bot.github.io) | [Kosar Saeed](https://www.linkedin.com/in/kosar-saeed-3b2741383/) |
 
 ---
 
@@ -156,10 +161,6 @@ C++ ⚙️  |  Dart 🎯  |  Java ☕
 <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Kosar-FF6B6B?style=for-the-badge" />
 
 </div>
-
----
-
-<div align="center">
 
 ---
 
@@ -180,7 +181,5 @@ C++ ⚙️  |  Dart 🎯  |  Java ☕
 ---
 
 <img alt="Happy Coding" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&width=500&lines=Keep+Coding...;Stay+Awesome...;Build+Amazing+Apps...;Thanks+for+visiting!" />
-
-</div>
 
 </div>
